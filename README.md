@@ -1,2 +1,2 @@
 # Coronavirus-Tweet-Sentiment-Analysis
-Analysis the data for classification model
+Analysis the COVID - 19 tweeter data for classification model
